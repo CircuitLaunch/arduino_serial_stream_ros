@@ -14,7 +14,7 @@ using namespace std;
 
 #include "SerialStream.hpp"
 
-using namespace trajectory_publisher;
+using namespace ass;
 
 bool arduinoReady = false;
 

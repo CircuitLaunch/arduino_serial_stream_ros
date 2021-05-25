@@ -1,6 +1,6 @@
 #include "SerialStream.hpp"
 
-using namespace trajectory_publisher;
+using namespace ass;
 
 SerialStream::Packet::~Packet()
 {
